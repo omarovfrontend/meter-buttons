@@ -16,8 +16,6 @@ body {
 }
 
 button {
-    padding: 0;
-    border: none;
     cursor: pointer;
 }
 
@@ -31,6 +29,8 @@ button {
     color: #fff;
     background-repeat: no-repeat;
     background-position: center;
+    padding: 0;
+    border: none;
 }
 
 .button:hover {
